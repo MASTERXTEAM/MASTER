@@ -2305,15 +2305,11 @@ if text == 'السورس' or text == 'سورس' or text == 'يا سورس' then
 Text = [[
 '☬┋Welcome To Source MASTER . 
   『───────···───────』
-𓅛↳  [𝙈𝙄𝙆𝙀𝙇 𝙏𝙄𝙈𝙀](http://t.me/SQlQS)
+𓅛↳  [𝙈𝘼𝙎𝙏𝙀𝙍 𝙏𝙄𝙈𝙀](http://t.me/SQlQS)
   『───────···───────』
-𓅛↳ [𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 𝙈𝙄𝙆𝙀𝙇](http://t.me/J555P)
+𓅛↳ [𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍](http://t.me/uuuGv)
   『───────···───────』
-𓅛↳ [𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍](http://t.me/P555U)
-  『───────···───────』
-𓅛↳ [𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍](http://t.me/K99III)
-  『───────···───────』
-𓅛↳  [𝙏𝙒𝙎𝙏𝙀𝘼𝙈](http://t.me/NU3BOT)
+𓅛↳  [𝙏𝙒𝙎𝙏𝙀𝘼𝙈](http://t.me/J3BBot)
   『───────···───────』
      
      THE BEST SOURCE ON 𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈·
@@ -2324,7 +2320,7 @@ end
 if text == 'مطور السورس' or text == 'الدعم'then
 Text = [[
 ≪━━━━━━━━━≫
-✺[DEV SOURCE](t.me/P555U)✺
+✺[DEV SOURCE](t.me/@uuuGv)✺
 ≪━━━━━━━━━≫
 ]]
 send(msg.chat_id_, msg.id_,Text)
