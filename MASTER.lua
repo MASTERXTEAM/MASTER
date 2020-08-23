@@ -97,7 +97,7 @@ echo -e "\e[36m"
 done
 ]])  
 file:close()  
-file = io.open("MIK", "w")  
+file = io.open("MAS", "w")  
 file:write([[
 #!/usr/bin/env bash
 cd $HOME/MASTER
